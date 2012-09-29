@@ -4,10 +4,8 @@ mais uma linha
 AEssa é uma linha
 Essa é outra linha
 mais uma linha
-mais uma linha
-outtra linha final
-outtra linha final
-uma linha intrusa
-final 2 do arquivo que esta trabalhando na branch master
+outra linha final
+final 2 do aquivo que esta trabalhando na branch work
+outra linha final
 final 2 do aquivo que esta trabalhando na branch work
 final 3 do aquivo que esta trabalhando na branch work
