@@ -8,6 +8,7 @@ outra linha diferente
 outra linha final
 final 2 do aquivo que esta trabalhando na branch work
 outra linha final
+Aqui vai começar o texto
 
 final 2 do aquivo que esta trabalhando na branch work
 final 3 do aquivo que esta trabalhando na branch work
