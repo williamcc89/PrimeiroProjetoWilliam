@@ -12,3 +12,5 @@ Aqui vai começar o texto
 
 final 2 do aquivo que esta trabalhando na branch work
 final 3 do aquivo que esta trabalhando na branch work
+
+Estou adicionando conteúdo ao arquivo novo em uma branch nova work2
